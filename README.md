@@ -7,9 +7,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nikeet-sharma-6b801815b" target="blank"><img align="Left" src="LinkedIn_Logo.svg" alt="nikeet-sharma" height="30" width="40" /></a><br>
-<a href="https://instagram.com/nikeetsharma" target="blank"><img align="Left" src="Instagram_logo_2016.svg" alt="nikeetsharma" height="30" width="40" /></a> <br>
-<a href="https://www.hackerrank.com/nikeetsrma" target="blank"><img align="Left" src="Hackerrank_meaningful_logo.svg" alt="nikeetsrma" height="30" width="40" /></a> 
+<a href="https://linkedin.com/in/nikeet-sharma-6b801815b" target="blank"><br><img align="Left" src="LinkedIn_Logo.svg" alt="nikeet-sharma" height="30" width="40" /></a><br>
+<a href="https://instagram.com/nikeetsharma" target="blank"><br><img align="Left" src="Instagram_logo_2016.svg" alt="nikeetsharma" height="30" width="40" /></a> <br>
+<a href="https://www.hackerrank.com/nikeetsrma" target="blank"><br><img align="Left" src="Hackerrank_meaningful_logo.svg" alt="nikeetsrma" height="30" width="40" /></a><br> 
 </p>
 <br>
 <h3 align="left">Languages and Tools:</h3>
