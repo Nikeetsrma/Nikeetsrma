@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikeet Sharma</h1>
-<h3 align="center">"I am an Engineer with well-versed in both mechanical Knowledge and Software Programming Languages wants to join a reputed company where I can effectively contribute my skills as Software Professional, possessing competent Technical Skills enabling me to perform at the optimum level of my capability and excel the target for the growth of the organization."</h3>
+<h3 align="center">"I am an Engineer with well-versed in both mechanical Knowledge and Software Programming Languages wants to join a reputed company where I can effectively contribute my skills as Software Professional, possessing competent Technical Skills enabling me to perform at the optimum level of my capability and excel the targets for the growth of the organization."</h3>
 
 Fresher
 
