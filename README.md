@@ -5,6 +5,15 @@ Software Languages wants to join a reputed company where I can effectively contr
 my skills as Software Professional, possessing competent Technical Skills enabling me
 to perform at the optimum level of my capability and excel the target for the growth of the organization."
 
+#imgDiv{
+width: 300px;
+height: 300px;
+background-image: url("path_to_your_profile.png");
+background-position: -25px -20px;
+border-radius: 50%;
+background-size: cover;
+}
+
 
 - 👀 I’m interested in learning new technologies to develop my skillset.
 - 🌱 I’m currently learning Python, SQL, HTML, CSS, EXCEL and more
